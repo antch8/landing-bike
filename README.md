@@ -1,5 +1,5 @@
 # Bike landing page
-- [LANDING DEMO LINK]()
+- [LANDING DEMO LINK](https://antch8.github.io/landing-bike/)
 - [FIGMA DESIGN LINK](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
 
 ### About:
